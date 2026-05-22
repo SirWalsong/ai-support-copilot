@@ -1,0 +1,15 @@
+{
+    "ticket_id": "TCK-1002",
+    "customer_name": "Alex Mercer",
+    "customer_email": "alex.mercer@gmail.com",
+    "subject": "Charged twice for subscription",
+    "body": "I upgraded to the premium plan yesterday. My card was charged twice, but my account still shows free tier access. This is extremely frustrating and I need this fixed immediately.",
+    "status": "Pending",
+    "sentiment": "Negative",
+    "urgency": "High",
+    "internal_notes": [
+        "Escalated to engineering because of double charge billing issue."
+    ],
+    "escalated": true,
+    "escalation_reason": "Double charge billing issue and denied premium access."
+}

@@ -1,0 +1,10 @@
+Classify the urgency of this support issue.
+
+Return ONLY one word:
+- Low
+- Medium
+- High
+- Critical
+
+CUSTOMER ISSUE:
+{ticket}

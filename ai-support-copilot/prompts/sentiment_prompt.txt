@@ -1,0 +1,9 @@
+Analyze the emotional sentiment of this customer issue.
+
+Return ONLY one word:
+- Positive
+- Neutral
+- Negative
+
+CUSTOMER ISSUE:
+{ticket}
